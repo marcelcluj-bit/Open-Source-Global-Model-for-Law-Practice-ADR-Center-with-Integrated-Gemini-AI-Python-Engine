@@ -147,3 +147,10 @@ To lower operational friction, accelerate dispute resolution, and ensure cross-b
 ## 10. Open Source License
 
 This project architecture is released under the **MIT License**. Free for global adaptation, deployment, and commercial utilization by licensed legal professionals worldwide.
+
+
+--- Tokenizarea aduce Finanțare descentralizată a litigiilor (Litigation Crowdfunding): Permite investitorilor sau partenerilor să finanțeze cheltuielile de judecată/mediere pentru cazuri mari în schimbul unei cote din onorariul de succes.
+
+Seifuri de Escrow Smart Contracts (CaseEscrowVault): Blochează sumele tranzacționate prin mediere (ADR) sau succesele din instanță pe jurisdicții specifice (ex: România, Germania).
+
+Plată automată a avocaților autohtoni: Distribuie automat cota cuvenită casei de avocatură locale/mediatorului și dividendele către finanțatorii proiectului în momentul semnării acordului de mediere.
